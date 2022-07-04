@@ -1,0 +1,32 @@
+body{
+    font-family: 'IBM Plex Serif', serif;
+}
+h1{
+    font-weight: 700px;
+    font-size: 70px;
+}
+section{
+    display: inline-flex;
+    
+}
+.male-sector{
+    width: auto;
+    
+}
+.male-sector img{
+    width: 100%;
+    
+}
+.m-text{
+    padding-left: 15%;
+    margin-top: 100px;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 40px;
+    margin-left: 15%;
+    border-radius: 20px 20px;
+}
